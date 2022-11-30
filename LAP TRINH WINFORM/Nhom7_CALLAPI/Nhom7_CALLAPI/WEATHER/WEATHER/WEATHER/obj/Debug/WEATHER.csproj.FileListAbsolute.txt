@@ -1,0 +1,261 @@
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.Home.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết\Weather\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Home.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\manht\Downloads\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Home.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Home.resources
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manht\Downloads\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmEdit.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\manht\Downloads\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\Admin\OneDrive\Desktop\New folder\2\1\Thời tiết (1) (1)\Thời tiết (1)\Thời tiết\WEATHER\WEATHER\obj\Debug\WEATHER.frmStudent.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmStudent.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\manht\Downloads\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmStudent.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+D:\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe.config
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.exe
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\WEATHER.pdb
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.dll
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.xml
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.AssemblyReference.cache
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.SuggestedBindingRedirects.cache
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmStudent.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Forget.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmLogin.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Properties.Resources.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.frmRegister.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.Teacher.resources
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.GenerateResource.cache
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CoreCompileInputs.cache
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.csproj.CopyComplete
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.exe
+C:\Users\ducpr\Downloads\Nhom7_CALLAPI\Nhom7_CALLAPI\WEATHER\WEATHER\WEATHER\obj\Debug\WEATHER.pdb
